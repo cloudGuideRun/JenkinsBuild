@@ -6,7 +6,7 @@ public class WelcomeJava {
 		// TODO Auto-generated method stub
 		for(int i=0; i<10;i++) {
 			
-			System.out.println("Welcome to Java");
+			System.out.println("Welcome to Jenkins Training ");
 			Thread.sleep(2000);
 		}
 
